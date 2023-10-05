@@ -23,6 +23,13 @@ Cambiame esta
   
   </button>
   
+   <div>
+   <button onClick={() =>{
+    alert();
+  }} >
+    alerta xd
+    </button>
+   </div>
   
      <Button texto ={"compras"}></Button>
      <Button texto ={"compras"}></Button>
